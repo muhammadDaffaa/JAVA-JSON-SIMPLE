@@ -1,0 +1,21 @@
+{
+  "Petrol Station": [
+    {
+      "No":1,
+      "Petrol Name" : "Pertamina",
+      "Petrol Type": {
+        "Pertalite": "pertalite_price",
+        "Pertamax": "pertamax_price",
+        "Pertamax Turbo": "pertamax_turbo_price"
+      }
+    },
+    {
+      "No": 2,
+      "Petrol Name" : "Shell",
+      "Petrol Type": {
+        "Super": "super_price",
+        "V Power": "vpower_price"
+      }
+    }
+  ]
+}
